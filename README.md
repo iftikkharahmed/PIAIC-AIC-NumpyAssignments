@@ -1,2 +1,3 @@
 # PIAIC-AIC-NumpyAssignments
-(PIAIC) AIC NumpyAssignments
+NumpyAssignment1
+NumpyAssignment2
